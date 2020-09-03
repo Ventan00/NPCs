@@ -1,0 +1,9 @@
+name: NPCs
+main: me.ventan.NPCs.MainNPCs
+version: 1.0
+author: Ventan
+website: www.servernet.pl
+description: Plugin na npc
+commands:
+  npc:
+    description: Komenda na zarządzanie NPCtem
