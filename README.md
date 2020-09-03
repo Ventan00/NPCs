@@ -8,8 +8,8 @@ Types of NPC:
 - Blaze
 
 Commands:
--/npc spawn
--/npc remove
--/npc info
--/npc tp
--/npc help
+- /npc spawn
+- /npc remove
+- /npc info
+- /npc tp
+- /npc help
